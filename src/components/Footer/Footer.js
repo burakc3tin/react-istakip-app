@@ -18,7 +18,7 @@ export default function Footer() {
                     textDecoration: 'none',
                     color: 'wheat'
                 }}
-                href="https://github.com/burakc3tin/react-is-takip-app">Burak Çetin - ♦ Github</a>
+                href="https://github.com/burakc3tin/react-istakip-app">Burak Çetin - ♦ Github</a>
         </BottomNavigation>
     )
 }
